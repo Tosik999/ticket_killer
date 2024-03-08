@@ -3,6 +3,7 @@ import time
 from ticket_search import find_ticket
 from telebot import types
 
+
 bot = telebot.TeleBot('1587774961:AAGPQC8ExRcRlGepDr_FNqTPJdSr06swK68')
 
 interval_find_tiket = 60
